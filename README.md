@@ -1,2 +1,2 @@
 # Air_Wars
- My first game (Air Wars), developed in the 1st half of 2022
+ My first game (Air Wars), developed with the Python language and the Pygame library, in the 1st semester of 2022
